@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">OpenFileManger</string>
+    <string name="file_path">file path</string>
+    <string name="pick_file">Pick File</string>
+    <string name="readfile">ReadFile</string>
+    <string name="todo">TODO</string>
+</resources>
